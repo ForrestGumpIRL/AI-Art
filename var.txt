@@ -1,8 +1,8 @@
 Image_Source:
 mountains.jpg
-T_Weight:
+T_Weight: (Original = 0.4)
 0.4
-Width:
-960
-Height:
+Width: (Original = 960)
+4800
+Height: (Original = 960)
 1560
