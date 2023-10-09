@@ -1,0 +1,8 @@
+Image_Source:
+mountains.jpg
+T_Weight:
+0.4
+Width:
+960
+Height:
+1560

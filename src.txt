@@ -1,0 +1,116 @@
+1 : Synthwave
+2 : Ukiyoe
+3 : No Style
+4 : Steampunk
+5 : Fantasy Art
+6 : Vibrant
+7 : HD
+8 : Pastel
+9 : Psychic
+10 : Dark Fantasy
+11 : Mystical
+12 : Festive
+13 : Baroque
+14 : Etching
+15 : S.Dali
+16 : Wuhtercuhler
+17 : Realistic
+18 : Van Gogh
+19 : Throwback
+20 : Ink
+21 : Surreal Diffusion
+22 : Meme
+23 : Provenance
+24 : Rose Gold
+25 : Moonwalker
+26 : Blacklight
+27 : Psychedelic
+28 : Ghibli
+29 : Surreal
+30 : Love
+31 : Death
+32 : Robots
+33 : Radioactive
+34 : Melancholic
+35 : Transitory
+36 : Aquatic
+37 : Toasty
+38 : Arcane
+39 : Daydream
+40 : Malevolent
+41 : Street Art
+42 : Unrealistic
+43 : Vibrance
+44 : Pandora
+45 : Comic
+46 : Anime
+47 : Line-Art
+48 : Gouache
+49 : Polygon
+50 : Paint
+51 : VFX
+52 : HDR
+53 : Analogue
+54 : Retro-Futurism
+55 : Isometric
+56 : Abstract Fluid
+57 : Bad Trip
+58 : Cartoonist
+59 : Pixel Art
+60 : Vector
+61 : Fantastical
+62 : The City
+63 : Spectral
+64 : Dystopia
+65 : Diorama
+66 : Flora
+67 : Abstract
+68 : Flora
+69 : Watercolor
+70 : Illustrative
+71 : Soft Touch
+72 : Winter
+73 : Festive
+74 : Splatter
+75 : Instruct
+76 : Realistic v2
+77 : Anime v2
+78 : Intimate
+79 : VFX v2
+81 : Flora v2
+82 : HDR v2
+83 : Expressionism v2
+84 : Buliojourney v2
+87 : Item v2
+88 : Blues v2
+89 : Unrealistic v2
+90 : Cartoonist v2
+91 : Watercolor v2
+92 : Spectral v2
+93 : Spring v2
+94 : Gloomy
+95 : The Cut
+96 : The Bulio Cut
+97 : Dreamwave v2
+98 : Rorschach v2
+99 : Vector v2
+100 : Flat Design
+101 : Figure
+102 : Abstract Fluid v2
+103 : Illustrated v2
+104 : Ink v2
+105 : Poster Art
+106 : Figure v2
+107 : Horror v2
+108 : Horror Cut v2.0
+109 : Horror Cut v2.1
+110 : The Absurd v2
+111 : Nightly v2
+112 : Steampunk v2
+113 : Retro Sci-Fi v2
+114 : Simple Design v2
+115 : Abstract v2
+116 : Anime v2.1
+
+0: Random style chosen
+-1: Random optimized style chosen
